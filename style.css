@@ -1,0 +1,45 @@
+*{
+    font-family: Arial;
+}
+img{
+    width: 100px;
+}
+div{
+    display: inline-block;
+}
+.container{
+    width: 800px;
+    background-color: beige;
+    padding-bottom: 30px;
+}
+.header{
+    margin-top: 10px;
+    margin-left: 120px;
+}
+.header img{
+    width: 130px;
+}
+.header .catandninja{
+    width: 130px;
+    background-color: white;
+    border-top: 5px solid beige;
+}
+.header h1{
+    display: inline-block;
+}
+.main{
+    margin: 0 auto;
+    width: 710px;
+    display: block;
+}
+.blue{
+    background-color: rgb(65, 132, 233);
+    padding: 15px 15px 15px 15px;
+    border: 4px solid black;
+}
+.red{
+    background-color: red;
+    padding: 15px 15px 15px 15px;
+    border: 4px solid black;
+    margin-top: 10px;
+}
